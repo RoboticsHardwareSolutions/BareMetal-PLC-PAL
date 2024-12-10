@@ -43,3 +43,6 @@
 [submodule "rnode"]
 	path = rnode
 	url = https://github.com/RoboticsHardwareSolutions/rnode.git
+[submodule "rboot"]
+	path = rboot
+	url = https://github.com/RoboticsHardwareSolutions/rboot.git
